@@ -1,0 +1,15 @@
+{
+    "name": "user1234/rankbeast",
+    "autoload": {
+        "psr-4": {
+            "User1234\\Rankbeast\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "den4ikos",
+            "email": "denasius89@yandex.ru"
+        }
+    ],
+    "require": {}
+}
